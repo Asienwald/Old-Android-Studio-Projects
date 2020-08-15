@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stonks</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="dashboard_items">4 Items</string>
+</resources>

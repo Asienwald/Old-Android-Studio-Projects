@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ffdae3ad5f0113ef63e856dd73f7a272\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\bc6f3548302be2deba2760be1711f0a8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\428a9e9603a406c0f557e5e37d741707\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4e282708db7464da669476ae622fcfa8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\317fbad92a760198e96f22a977bd0c4f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3d1ecde5fd7e3a040338362df6760725\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9b19d535e505cbd571d60073b5250271\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ba21539aa577ab60a9cd5cc0a3249fb4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0e1c9b06e06a892f632d496a4d0aa1b0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\befd087a6c28582453364c2b95d3534c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\097c2196dee6234eceeb3795c6b4227c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\296e686033d84f199ddae7b31cac8605\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:3:11-40
+		INJECTED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\bc6f3548302be2deba2760be1711f0a8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\bc6f3548302be2deba2760be1711f0a8\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:8:9-34
+	android:roundIcon
+		ADDED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:11:9-40
+activity#asienwald.notetaker.MainActivity
+ADDED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:16:27-74
+activity#asienwald.notetaker.NoteActivity
+ADDED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:19:9-20:20
+	android:name
+		ADDED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml:19:19-47
+uses-sdk
+INJECTED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml
+INJECTED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ffdae3ad5f0113ef63e856dd73f7a272\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ffdae3ad5f0113ef63e856dd73f7a272\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\bc6f3548302be2deba2760be1711f0a8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\bc6f3548302be2deba2760be1711f0a8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\428a9e9603a406c0f557e5e37d741707\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\428a9e9603a406c0f557e5e37d741707\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4e282708db7464da669476ae622fcfa8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4e282708db7464da669476ae622fcfa8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\317fbad92a760198e96f22a977bd0c4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\317fbad92a760198e96f22a977bd0c4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3d1ecde5fd7e3a040338362df6760725\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3d1ecde5fd7e3a040338362df6760725\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9b19d535e505cbd571d60073b5250271\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9b19d535e505cbd571d60073b5250271\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ba21539aa577ab60a9cd5cc0a3249fb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ba21539aa577ab60a9cd5cc0a3249fb4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0e1c9b06e06a892f632d496a4d0aa1b0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0e1c9b06e06a892f632d496a4d0aa1b0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\befd087a6c28582453364c2b95d3534c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\befd087a6c28582453364c2b95d3534c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\097c2196dee6234eceeb3795c6b4227c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\097c2196dee6234eceeb3795c6b4227c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\296e686033d84f199ddae7b31cac8605\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\User 1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\296e686033d84f199ddae7b31cac8605\AndroidManifest.xml:20:5-44
+INJECTED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml
+INJECTED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudio\NoteTaker\app\src\main\AndroidManifest.xml
